@@ -9,6 +9,11 @@ L'application à développer s'appelle Kapshare.
 - C'est une application simple qui possède :
   - Une page de Login
   - Une Page d'accueil qui affiche 3 photos dans un carrousel Bootstrap
+
+Image1  | Image2  | Image3
+------------- | ------------- | -------------
+<img src="https://github.com/jekobokidou/kapsiki-exo/blob/main/exo-001/DESSA10.jpg" alt="image1" width="200"/>  | <img src="https://github.com/jekobokidou/kapsiki-exo/blob/main/exo-001/DESSA11.jpg" alt="image1" width="200"/>  | <img src="https://github.com/jekobokidou/kapsiki-exo/blob/main/exo-001/DESSA12.jpg" alt="image1" width="200"/>
+
 - L'application implémenter les mécanismes REACT :
   - **props** : 
     - *props* pour indiquer quelle image s'affiche en premier par défaut
