@@ -1,3 +1,6 @@
+Exercice 1 : REACT JS et AWS
+=============
+
 # Présentation
 L'objectif du projet est de mettre en pratique tout ce que nous avons vu jusqu'ici concernant le développement REACT et l'usage d'EC2 sur AWS.
 Vous allez donc devoir :
