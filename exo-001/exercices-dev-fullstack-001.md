@@ -8,7 +8,7 @@ Vous allez donc devoir :
 L'application à développer s'appelle Kapshare.
 - C'est une application simple qui possède :
   - Une page de Login
-  - Une Page d'accueil qui affiche 3 photos dans un carrousel Bootstrap
+  - Une Page d'accueil qui affiche 3 photos dans un **carrousel Bootstrap**
 
 Image1  | Image2  | Image3
 ------------- | ------------- | -------------
